@@ -1,0 +1,53 @@
+body{
+    background-image: url(https://wally.com.pl/galerie/f/fototapeta-na-sciane-czarno-biala-panorama-miasta-fp-4935_25763.jpg) ;
+    background-size: 100%;
+font-size: large;
+}
+
+.container{
+    background-color: black;
+    background-image: url(tło.jpg);
+    height: 350px;
+    width: 750px;
+    margin: auto;
+    margin-top: 200px;
+}
+.description{
+    background-color: black;
+    margin: auto;
+    height: 100%;
+    width: 1000px;
+    
+    margin-top: 200px;
+}
+.image{
+    float: left;
+    margin-left: 2px;
+    margin-top: 60px;
+}
+
+.username{
+color: aliceblue;
+font-size: 40px;
+text-align: center;
+}
+
+.title{
+    color: aliceblue;
+    font-size: 30px;
+    text-align: center;
+}
+
+.contact{
+    color: aliceblue;
+    font-size: 20px;
+    word-spacing: 20px;
+    text-align: center;
+}
+.text{
+    margin-top: 30px;
+}
+
+
+
+
